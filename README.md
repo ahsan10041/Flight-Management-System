@@ -7,11 +7,11 @@ Features:
 
     User registration and login: The system will allow users to create an account and log in to access the services provided by the system.
     
-    Flight reservation:  The system will allow users to reserve their seats on available flights. The users can search for available flights, select their preferred seats 				 and make payment to complete their reservations.
+    Flight reservation:The system will allow users to reserve their seats on available flights. The users can search for available flights, select their preferred seats and make payment to complete their reservations.
     
-    Flight schedule:   The system will display the schedule of available flights, including the departure and arrival times, flight number, and the number of available 		     seats.
+    Flight schedule: The system will display the schedule of available flights, including the departure and arrival times, flight number, and the number of available seats.
     
-    Admin login:       The system will provide an admin login interface to manage the system and update flight schedules.
+    Admin login:The system will provide an admin login interface to manage the system and update flight schedules.
     
     Flight management: The admin can add new flights, update or delete existing flights, and manage seat availability for each flight.
     
